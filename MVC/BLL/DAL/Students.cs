@@ -11,7 +11,7 @@ namespace BLL.DAL
         
         public DateTime BirthDate { get; set; }
         
-        public double Gpa { get; set; }
+        public decimal Gpa { get; set; }
 
     }
 }
